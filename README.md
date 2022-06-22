@@ -6,8 +6,8 @@ I'm a quick study, and a meticulous problem solver.
 And I firmly believe in contributing to a positive workplace culture.
 
 View my: 
-[Linkedin profile](https://www.linkedin.com/in/emurrelldev/).
-[Portfolio Website](https://emurrell.com).
+[Linkedin](https://www.linkedin.com/in/emurrelldev/) profile.
+[Portfolio](https://emurrell.com) website.
 
 <!--
 **EMurrell/EMurrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
