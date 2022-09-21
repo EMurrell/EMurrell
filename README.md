@@ -1,11 +1,9 @@
 # Hi there! I'm Eric 👋
 **I am a freelance Web Developer.**
 
-I'm looking to expand my skill set and tackle new challenges through gaining employment within a team of skilled developers.
+I work with agencies, Saas companies, and small businesses to create beautiful websites and web apps.
 
-I'm a quick study, a meticulous problem solver, and an excellent communicator.
-
-And I firmly believe in contributing to a positive workplace culture.
+Leveraging tools such as Next.js and TailwindCSS, I specialize in programming pixel-perfect, responsive user interfaces.
 
 View my: 
 
