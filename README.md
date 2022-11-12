@@ -1,5 +1,5 @@
 # Hi there! I'm Eric 👋
-**I am a freelance Web Developer.**
+**I am a freelance Frontend Developer.**
 
 I work with agencies, Saas companies, and small businesses to create beautiful websites and web apps.
 
