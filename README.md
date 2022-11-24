@@ -1,7 +1,7 @@
-# Hi there! I'm Eric 👋
+# Hi, I'm Eric 👋
 **I am a Frontend Developer.**
 
-I work with agencies, Saas companies, and small businesses to create beautiful websites and web apps.
+I work with agencies and small businesses to create engaging digital products.
 
 Leveraging tools such as Next.js and TailwindCSS, I specialize in programming pixel-perfect, responsive user interfaces.
 
