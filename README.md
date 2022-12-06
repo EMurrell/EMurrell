@@ -2,8 +2,7 @@
 **I am a Frontend Developer.**
 
 I work with agencies and small businesses to create engaging digital products.
-
-Leveraging tools such as Next.js and TailwindCSS, I specialize in programming pixel-perfect, responsive user interfaces.
+I use tools like Reactjs and TailwindCSS to build pixel-perfect, responsive user interfaces.
 
 View my: 
 
