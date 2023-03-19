@@ -1,6 +1,5 @@
 # Hi, I'm Eric 👋
-**I am a Frontend Developer.**
-
+**I'm a Frontend Developer.**
 I work with agencies and small businesses to create engaging digital products.
 I use tools like Reactjs and TailwindCSS to build pixel-perfect, responsive user interfaces.
 
